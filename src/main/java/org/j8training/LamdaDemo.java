@@ -9,7 +9,6 @@ public class LamdaDemo {
     // can be passed as parameters to other functions.
     // its like defining a anonymous implmenetation for a functional interface
     // They are essentially used to provide inline definition for the single function of the functional interface
-    //Test commit 1
 
 
 
